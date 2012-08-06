@@ -13,5 +13,5 @@ echo 'Could not use database ' . DB_NAME . "\n";
 echo mysql_error() . "\n";
 exit;
 }
-echo 'Connected to database ' . DB_NAME . "\n";
+echo 'Connected to database ' . DB_NAME . "\n";  //test changes
 ?>
